@@ -7,12 +7,12 @@
 ---
 
 ## 🚀 About Me
-🎓 I'm a 4th-year Computer Engineering student  
-📱 I have a particular interest in **mobile application development**  
-🤖 I'm exploring the world of **Artificial Intelligence** and Machine Learning  
-🌱 I'm improving myself with Flutter, Python, and TypeScript  
-🔭 I'm working on social media analytics and smart applications  
-📫 Contact: **[fatmabyaz18@gmail.com](mailto:fatmabyaz18@gmail.com)**
+ I'm a 4th-year Computer Engineering student  
+ I have a particular interest in **mobile application development**  
+ I'm exploring the world of **Artificial Intelligence** and Machine Learning  
+ I'm improving myself with Flutter, Python, and TypeScript  
+ I'm working on social media analytics and smart applications  
+ Contact: **[fatmabyaz18@gmail.com](mailto:fatmabyaz18@gmail.com)**
 
 ---
 
